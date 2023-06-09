@@ -1,0 +1,10 @@
+[
+    {
+        "url_to_scrape": 1,
+        "total_link": 1
+    },
+    {
+        "url": "https://example.com/",
+        "link_id": 1
+    }
+]

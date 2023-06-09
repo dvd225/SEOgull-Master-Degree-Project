@@ -1,0 +1,65 @@
+[
+    {
+        "link_id": 1,
+        "url": "http://davidemorri.altervista.org",
+        "fetch_time": "03/05/2023",
+        "protocol": "http",
+        "status_code": 200,
+        "internal_links": 6,
+        "external_links": 11,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 52620,
+                    "largest_contentuful_paint_score": 0,
+                    "cumulative_layout_shift": 0.06,
+                    "cumulative_layout_shift_score": 97.0,
+                    "first_input_delay": 34.5,
+                    "first_input_delay_score": 100,
+                    "speed_index": 14916.3,
+                    "speed_index_score": 1.0,
+                    "overall_score": 59.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 1410,
+                    "largest_contentuful_paint_score": 83.0,
+                    "cumulative_layout_shift": 0.09,
+                    "cumulative_layout_shift_score": 92.0,
+                    "first_input_delay": 16.5,
+                    "first_input_delay_score": 100,
+                    "speed_index": 2592.71,
+                    "speed_index_score": 39.0,
+                    "overall_score": 86.0
+                }
+            }
+        ],
+        "keywords": {
+            "\u00e2\u0080\u00a2": 0.03720892093753013,
+            "Web": 0.015054537372430433,
+            "2023": 0.015054537372430433,
+            "SEO": 0.014625560537213119,
+            "Report": 0.011290903029322825,
+            "2018": 0.010875805790369541,
+            "Laurea": 0.009673920773422754,
+            "Marketing": 0.008352750072017285,
+            "Analisi": 0.007527268686215217,
+            "Voto": 0.007527268686215217
+        },
+        "title": "Davide Morri",
+        "lenguage": "en",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 5,
+            "h3": 13,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "url_to_scrape": 2,
+        "total_link": 7
+    },
+    {
+        "url": "http://davidemorri.altervista.org",
+        "link_id": 1
+    },
+    {
+        "url": "http://davidemorri.altervista.org/risorse/Positional.pdf",
+        "link_id": 2
+    },
+    {
+        "url": "http://davidemorri.altervista.org/risorse/Elaborato singolo SMM.pdf",
+        "link_id": 3
+    },
+    {
+        "url": "http://davidemorri.altervista.org/risorse/CV Davide Morri 2023.pdf",
+        "link_id": 4
+    },
+    {
+        "url": "http://davidemorri.altervista.org/index.html",
+        "link_id": 5
+    },
+    {
+        "url": "http://davidemorri.altervista.org/images/certificato_learnn_SEO.png",
+        "link_id": 6
+    },
+    {
+        "url": "http://davidemorri.altervista.org/risorse/Vegetabox.pdf",
+        "link_id": 7
+    }
+]

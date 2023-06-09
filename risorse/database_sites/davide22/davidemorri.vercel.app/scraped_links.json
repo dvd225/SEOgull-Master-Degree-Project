@@ -1,0 +1,485 @@
+[
+    {
+        "link_id": 1,
+        "url": "https://davidemorri.vercel.app/",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 6,
+        "external_links": 5,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1305,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.01,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 29,
+                    "first_input_delay_score": 100,
+                    "speed_index": 2249.72,
+                    "speed_index_score": 99.0,
+                    "overall_score": 100
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 310,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.0,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 374.84,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                }
+            }
+        ],
+        "keywords": {
+            "Junior": 0.025345478935970084,
+            "Mail": 0.014429775305104805,
+            "Github": 0.014429775305104805,
+            "Telegram": 0.014429775305104805,
+            "scoprire": 0.014429775305104805,
+            "Web": 0.014429775305104805,
+            "SEO": 0.014429775305104805,
+            "Specialist": 0.014429775305104805,
+            "progetti": 0.014429775305104805,
+            "Morri": 0.012672739467985042
+        },
+        "title": "Davide Morri | Home",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 4,
+            "h3": 2,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 2,
+        "url": "https://davidemorri.vercel.app/about/",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 6,
+        "external_links": 15,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1155,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.01,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 83,
+                    "first_input_delay_score": 98.0,
+                    "speed_index": 1318.46,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 330,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.0,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 270,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                }
+            }
+        ],
+        "keywords": {
+            "Github": 0.006368766890829622,
+            "Web": 0.006368766890829622,
+            "SEO": 0.006027366787477785,
+            "Carriera": 0.005193505707907406,
+            "Morri": 0.005193505707907406,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.005193505707907406,
+            "Dark": 0.005193505707907406,
+            "theme": 0.005193505707907406,
+            "CarrieraIn": 0.005193505707907406,
+            "pagina": 0.005193505707907406
+        },
+        "title": "Carriera | Davide Morri",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 4,
+            "h3": 12,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 4,
+        "url": "https://davidemorri.vercel.app/work/",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 7,
+        "external_links": 5,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1080,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.02,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 1304.26,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 390,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.0,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 270,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                }
+            }
+        ],
+        "keywords": {
+            "Progetti": 0.0,
+            "|": 0.0,
+            "Davide": 0.0,
+            "Morri": 0.0,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.0,
+            "Mail": 0.0,
+            "Github": 0.0,
+            "Instagram": 0.0,
+            "Telegram": 0.0,
+            "Dark": 0.0
+        },
+        "title": "Progetti | Davide Morri",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 1,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 5,
+        "url": "https://davidemorri.vercel.app/work/make22",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 3,
+        "external_links": 6,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1080,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.01,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 930,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 350,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.14,
+                    "cumulative_layout_shift_score": 80.0,
+                    "first_input_delay": 21,
+                    "first_input_delay_score": 100,
+                    "speed_index": 270,
+                    "speed_index_score": 100,
+                    "overall_score": 95.0
+                }
+            }
+        ],
+        "keywords": {
+            "Learnn": 0.006467936366033705,
+            "Github": 0.004311957577355803,
+            "UTM": 0.004311957577355803,
+            "Realizzare": 0.003233968183016852,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.003233968183016852,
+            "Dark": 0.003233968183016852,
+            "theme": 0.003233968183016852,
+            "ProgettiRealizzare": 0.003233968183016852,
+            "lancioMarketingFunnelHo": 0.003233968183016852,
+            "partecipato": 0.003233968183016852
+        },
+        "title": "Realizzare una strategia di lancio",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 1,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 6,
+        "url": "https://davidemorri.vercel.app/assets/risorse/CV Davide Morri 2023.pdf",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 3,
+        "url": "https://davidemorri.vercel.app/work/seogull",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 4,
+        "external_links": 6,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1305,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.07,
+                    "cumulative_layout_shift_score": 96.0,
+                    "first_input_delay": 78,
+                    "first_input_delay_score": 99.0,
+                    "speed_index": 930,
+                    "speed_index_score": 100,
+                    "overall_score": 99.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 330,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.0,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 37,
+                    "first_input_delay_score": 100,
+                    "speed_index": 273.8,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                }
+            }
+        ],
+        "keywords": {
+            "software": 0.013591121187449907,
+            "web": 0.010872896949959927,
+            "Creare": 0.0027182242374899817,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.0027182242374899817,
+            "Dark": 0.0027182242374899817,
+            "theme": 0.0027182242374899817,
+            "ProgettiCreare": 0.0027182242374899817,
+            "SEOFunnelSEOMarketingDevHo": 0.0027182242374899817,
+            "siti": 0.0027182242374899817,
+            "webSEO": 0.0027182242374899817
+        },
+        "title": "Creare un software di analisi SEO",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 1,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 7,
+        "url": "https://davidemorri.vercel.app/assets/make22_davide-morri.png",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 8,
+        "url": "https://davidemorri.vercel.app/assets/certificato_learnn_SEO.png",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 9,
+        "url": "https://davidemorri.vercel.app/assets/certificato_learnn_lightroom.png",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 10,
+        "url": "https://davidemorri.vercel.app/assets/risorse/Tesi SEOgull.pdf",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 11,
+        "url": "https://davidemorri.vercel.app/work/social-galaxy",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 4,
+        "external_links": 5,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 2730,
+                    "largest_contentuful_paint_score": 85.0,
+                    "cumulative_layout_shift": 0.11,
+                    "cumulative_layout_shift_score": 86.0,
+                    "first_input_delay": 101,
+                    "first_input_delay_score": 96.0,
+                    "speed_index": 930,
+                    "speed_index_score": 100,
+                    "overall_score": 93.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 590,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.09,
+                    "cumulative_layout_shift_score": 93.0,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 270,
+                    "speed_index_score": 100,
+                    "overall_score": 98.0
+                }
+            }
+        ],
+        "keywords": {
+            "Analizzare": 0.0,
+            "galassia": 0.0,
+            "Social": 0.0,
+            "Media": 0.0,
+            "Davide": 0.0,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.0,
+            "Mail": 0.0,
+            "Github": 0.0,
+            "Instagram": 0.0,
+            "Telegram": 0.0
+        },
+        "title": "Analizzare la galassia dei Social Media",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 1,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 12,
+        "url": "https://davidemorri.vercel.app/work/positional",
+        "fetch_time": "01/06/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 4,
+        "external_links": 6,
+        "located_in_sitemap": false,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 1230,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.0,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 43,
+                    "first_input_delay_score": 100,
+                    "speed_index": 1549.21,
+                    "speed_index_score": 100,
+                    "overall_score": 100
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 410,
+                    "largest_contentuful_paint_score": 100,
+                    "cumulative_layout_shift": 0.08,
+                    "cumulative_layout_shift_score": 93.0,
+                    "first_input_delay": 16,
+                    "first_input_delay_score": 100,
+                    "speed_index": 270,
+                    "speed_index_score": 100,
+                    "overall_score": 98.0
+                }
+            }
+        ],
+        "keywords": {
+            "Analizzare": 0.003401276435504984,
+            "MorriHomeProgettiCarrieraLinkedIn": 0.003401276435504984,
+            "Dark": 0.003401276435504984,
+            "theme": 0.003401276435504984,
+            "ProgettiAnalizzare": 0.003401276435504984,
+            "brandMarketingSocialFunnelHo": 0.003401276435504984,
+            "studiato": 0.003401276435504984,
+            "italiano": 0.003401276435504984,
+            "team": 0.003401276435504984,
+            "nuova": 0.003401276435504984
+        },
+        "title": "Analizzare la comunicazione di un brand",
+        "lenguage": "it",
+        "canonical_link": false,
+        "htag": {
+            "h1": 1,
+            "h2": 1,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 13,
+        "url": "https://davidemorri.vercel.app/assets/risorse/Social media galaxy.pdf",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    },
+    {
+        "link_id": 14,
+        "url": "https://davidemorri.vercel.app/assets/risorse/Positional.pdf",
+        "fetch_time": "01/06/2023",
+        "status_code": 200
+    }
+]

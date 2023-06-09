@@ -1,0 +1,380 @@
+[
+    {
+        "link_id": 1,
+        "url": "https://www.unito.it/",
+        "fetch_time": "06/02/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 137,
+        "external_links": 41,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 16962,
+                    "largest_contentuful_paint_score": 0,
+                    "cumulative_layout_shift": 0.44,
+                    "cumulative_layout_shift_score": 21.0,
+                    "first_input_delay": 106,
+                    "first_input_delay_score": 95.0,
+                    "speed_index": 5756.54,
+                    "speed_index_score": 50.0,
+                    "overall_score": 42.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 2859,
+                    "largest_contentuful_paint_score": 37.0,
+                    "cumulative_layout_shift": 0.04,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 36,
+                    "first_input_delay_score": 100,
+                    "speed_index": 1123.76,
+                    "speed_index_score": 95.0,
+                    "overall_score": 83.0
+                }
+            }
+        ],
+        "keywords": {
+            "2023": 0.018590491736515,
+            "EVIDENZA": 0.018304544067163135,
+            "IN": 0.00991819071855161,
+            "LEGGI": 0.00991819071855161,
+            "ZHO": 0.007844804600212772,
+            "24": 0.007844804600212772,
+            "7": 0.007844804600212772,
+            "febbraio": 0.005515817402827044,
+            "Febbraio": 0.005515817402827044,
+            "UniTo": 0.004626990866948973
+        },
+        "title": "Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/",
+        "htag": {
+            "h1": 1,
+            "h2": 9,
+            "h3": 7,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 2,
+        "url": "https://www.unito.it/menu-position/10",
+        "fetch_time": "06/02/2023",
+        "protocol": "https",
+        "status_code": 302,
+        "internal_links": 137,
+        "external_links": 41,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 28450,
+                    "largest_contentuful_paint_score": 0,
+                    "cumulative_layout_shift": 0.48,
+                    "cumulative_layout_shift_score": 18.0,
+                    "first_input_delay": 128.5,
+                    "first_input_delay_score": 90.0,
+                    "speed_index": 17355.76,
+                    "speed_index_score": 0,
+                    "overall_score": 32.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 8049,
+                    "largest_contentuful_paint_score": 1.0,
+                    "cumulative_layout_shift": 0.03,
+                    "cumulative_layout_shift_score": 100,
+                    "first_input_delay": 33.5,
+                    "first_input_delay_score": 100,
+                    "speed_index": 4798.16,
+                    "speed_index_score": 4.0,
+                    "overall_score": 51.0
+                }
+            }
+        ],
+        "keywords": {
+            "2023": 0.018590491736515,
+            "EVIDENZA": 0.018304544067163135,
+            "IN": 0.00991819071855161,
+            "LEGGI": 0.00991819071855161,
+            "ZHO": 0.007844804600212772,
+            "24": 0.007844804600212772,
+            "7": 0.007844804600212772,
+            "febbraio": 0.005515817402827044,
+            "Febbraio": 0.005515817402827044,
+            "UniTo": 0.004626990866948973
+        },
+        "title": "Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/",
+        "htag": {
+            "h1": 1,
+            "h2": 9,
+            "h3": 7,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 3,
+        "url": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/microbiologia-e-virologia/nanomug-nanoparticelle-proteiche",
+        "fetch_time": "06/02/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 111,
+        "external_links": 27,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 5293,
+                    "largest_contentuful_paint_score": 22.0,
+                    "cumulative_layout_shift": 0.94,
+                    "cumulative_layout_shift_score": 3.0,
+                    "first_input_delay": 89,
+                    "first_input_delay_score": 98.0,
+                    "speed_index": 3970.01,
+                    "speed_index_score": 81.0,
+                    "overall_score": 55.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 1256,
+                    "largest_contentuful_paint_score": 88.0,
+                    "cumulative_layout_shift": 0.47,
+                    "cumulative_layout_shift_score": 18.0,
+                    "first_input_delay": 66,
+                    "first_input_delay_score": 100,
+                    "speed_index": 1130.22,
+                    "speed_index_score": 94.0,
+                    "overall_score": 83.0
+                }
+            }
+        ],
+        "keywords": {
+            "ZHO": 0.009291710781638225,
+            "Torino": 0.008031990110341702,
+            "UniTo": 0.006884562951721459,
+            "Come": 0.005207547030582208,
+            "FR": 0.005124493263241759,
+            "Studying": 0.004805401348293327,
+            "Via": 0.004805401348293327,
+            "qualit\u00e0": 0.004805401348293327,
+            "Universit\u00e0": 0.004589708634480972,
+            "ES": 0.004453721064902451
+        },
+        "title": "NANOMUG: nanoparticelle proteiche glicosilate | Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/microbiologia-e-virologia/nanomug-nanoparticelle-proteiche",
+        "htag": {
+            "h1": 2,
+            "h2": 8,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 4,
+        "url": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/oncologia/approccio-molecolare-innovativo-chemioterapia",
+        "fetch_time": "06/02/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 114,
+        "external_links": 27,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 5327.5,
+                    "largest_contentuful_paint_score": 21.0,
+                    "cumulative_layout_shift": 0.95,
+                    "cumulative_layout_shift_score": 3.0,
+                    "first_input_delay": 183,
+                    "first_input_delay_score": 72.0,
+                    "speed_index": 4078.49,
+                    "speed_index_score": 79.0,
+                    "overall_score": 54.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 1181,
+                    "largest_contentuful_paint_score": 90.0,
+                    "cumulative_layout_shift": 0.24,
+                    "cumulative_layout_shift_score": 52.0,
+                    "first_input_delay": 31,
+                    "first_input_delay_score": 100,
+                    "speed_index": 922.66,
+                    "speed_index_score": 98.0,
+                    "overall_score": 89.0
+                }
+            }
+        ],
+        "keywords": {
+            "ZHO": 0.009004273389084624,
+            "UniTo": 0.006844936377994454,
+            "LOGIN": 0.006002848926056416,
+            "Torino": 0.005894612163566253,
+            "FR": 0.004685599366904281,
+            "Mappa": 0.004685599366904281,
+            "EN": 0.004563290918662969,
+            "Come": 0.004563290918662969,
+            "Studying": 0.004563290918662969,
+            "Via": 0.004563290918662969
+        },
+        "title": "Approccio molecolare innovativo per chemioterapia | Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/oncologia/approccio-molecolare-innovativo-chemioterapia",
+        "htag": {
+            "h1": 2,
+            "h2": 8,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 5,
+        "url": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/oncologia/anticorpo-anti-morgana-il-trattamento-di-tumori",
+        "fetch_time": "06/02/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 114,
+        "external_links": 27,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 5218,
+                    "largest_contentuful_paint_score": 23.0,
+                    "cumulative_layout_shift": 0.94,
+                    "cumulative_layout_shift_score": 3.0,
+                    "first_input_delay": 88,
+                    "first_input_delay_score": 98.0,
+                    "speed_index": 4018.65,
+                    "speed_index_score": 80.0,
+                    "overall_score": 55.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 1106.5,
+                    "largest_contentuful_paint_score": 92.0,
+                    "cumulative_layout_shift": 0.29,
+                    "cumulative_layout_shift_score": 42.0,
+                    "first_input_delay": 49,
+                    "first_input_delay_score": 100,
+                    "speed_index": 1012.33,
+                    "speed_index_score": 97.0,
+                    "overall_score": 88.0
+                }
+            }
+        ],
+        "keywords": {
+            "ZHO": 0.009079701857265438,
+            "UniTo": 0.00593379021261268,
+            "Torino": 0.005080659962219495,
+            "FR": 0.004724850461077301,
+            "EN": 0.004601517439447581,
+            "Studying": 0.004601517439447581,
+            "LOGIN": 0.004601517439447581,
+            "Via": 0.004601517439447581,
+            "extracellulare": 0.004601517439447581,
+            "ES": 0.004023875954331092
+        },
+        "title": "Anticorpo anti-Morgana per il trattamento di tumori | Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/oncologia/anticorpo-anti-morgana-il-trattamento-di-tumori",
+        "htag": {
+            "h1": 2,
+            "h2": 8,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    },
+    {
+        "link_id": 6,
+        "url": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/laboratorio-e-processi/oro-nanoporoso-anodizzato",
+        "fetch_time": "19/02/2023",
+        "protocol": "https",
+        "status_code": 200,
+        "internal_links": 113,
+        "external_links": 29,
+        "located_in_sitemap": true,
+        "noindex": false,
+        "nofollow": false,
+        "crawl_allowed_by_robotx.txt": true,
+        "core_web_vitals": [
+            {
+                "mobile": {
+                    "largest_contentuful_paint": 5335,
+                    "largest_contentuful_paint_score": 21.0,
+                    "cumulative_layout_shift": 0.94,
+                    "cumulative_layout_shift_score": 3.0,
+                    "first_input_delay": 182,
+                    "first_input_delay_score": 73.0,
+                    "speed_index": 4239.02,
+                    "speed_index_score": 77.0,
+                    "overall_score": 53.0
+                },
+                "desktop": {
+                    "largest_contentuful_paint": 1117,
+                    "largest_contentuful_paint_score": 92.0,
+                    "cumulative_layout_shift": 0.5,
+                    "cumulative_layout_shift_score": 16.0,
+                    "first_input_delay": 42,
+                    "first_input_delay_score": 100,
+                    "speed_index": 912,
+                    "speed_index_score": 98.0,
+                    "overall_score": 84.0
+                }
+            }
+        ],
+        "keywords": {
+            "ZHO": 0.008741043622669852,
+            "SERS": 0.007752304456327387,
+            "Torino": 0.006664547643030202,
+            "UniTo": 0.006644832391137761,
+            "FR": 0.004548621159605667,
+            "EN": 0.004429888260758507,
+            "Studying": 0.004429888260758507,
+            "LOGIN": 0.004429888260758507,
+            "Via": 0.004429888260758507,
+            "PT": 0.003873791871357049
+        },
+        "title": "Oro nanoporoso anodizzato come sensore-substrato ultra sensibile per applicazioni SERS | Universit\u00e0 di Torino",
+        "lenguage": "it",
+        "canonical_link": "https://www.unito.it/ricerca/brevetti-e-spin/i-nostri-brevetti/laboratorio-e-processi/oro-nanoporoso-anodizzato",
+        "htag": {
+            "h1": 2,
+            "h2": 8,
+            "h3": 0,
+            "h4": 0,
+            "h5": 0,
+            "h6": 0
+        },
+        "alt_tag": true
+    }
+]

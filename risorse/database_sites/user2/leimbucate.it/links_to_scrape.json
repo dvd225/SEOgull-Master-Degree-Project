@@ -1,0 +1,470 @@
+[
+    {
+        "url_to_scrape": 117,
+        "total_link": 116
+    },
+    {
+        "url": "https://leimbucate.it/2021/11/27/il-rebranding-di-joy-wedding/",
+        "link_id": 1
+    },
+    {
+        "url": "https://leimbucate.it/2022/01/11/i-clienti-ideali-di-wedinsalento/",
+        "link_id": 2
+    },
+    {
+        "url": "https://leimbucate.it/2022/02/23/personal-brand-consulente-finanziario/",
+        "link_id": 3
+    },
+    {
+        "url": "https://leimbucate.it/2022/01/11/il-percorso-di-branding-per-engo/",
+        "link_id": 4
+    },
+    {
+        "url": "https://leimbucate.it/2022/12/09/trasformare-passione-lavoro_luciano/",
+        "link_id": 5
+    },
+    {
+        "url": "https://leimbucate.it/",
+        "link_id": 6
+    },
+    {
+        "url": "https://leimbucate.it/servizi/i-nostri-servizi-singoli/",
+        "link_id": 7
+    },
+    {
+        "url": "https://leimbucate.it/servizi/",
+        "link_id": 8
+    },
+    {
+        "url": "https://leimbucate.it/servizi/la-tua-idea-ha-futuro/",
+        "link_id": 9
+    },
+    {
+        "url": "https://leimbucate.it/servizi/un-brand-unico/",
+        "link_id": 10
+    },
+    {
+        "url": "https://leimbucate.it/servizi/strategia-di-lancio-wow/",
+        "link_id": 11
+    },
+    {
+        "url": "https://leimbucate.it/servizi/social-che-spaccano/",
+        "link_id": 12
+    },
+    {
+        "url": "https://leimbucate.it/casi-studio-portfolio/",
+        "link_id": 13
+    },
+    {
+        "url": "https://leimbucate.it/chi-siamo/",
+        "link_id": 14
+    },
+    {
+        "url": "https://leimbucate.it/melissa/",
+        "link_id": 15
+    },
+    {
+        "url": "https://leimbucate.it/contatti/",
+        "link_id": 16
+    },
+    {
+        "url": "https://leimbucate.it/elisa-monasterolo/",
+        "link_id": 17
+    },
+    {
+        "url": "https://leimbucate.it/rebecca/",
+        "link_id": 18
+    },
+    {
+        "url": "https://leimbucate.it/hello/",
+        "link_id": 19
+    },
+    {
+        "url": "https://leimbucate.it/coming-soon/",
+        "link_id": 20
+    },
+    {
+        "url": "https://leimbucate.it/category/branding/",
+        "link_id": 21
+    },
+    {
+        "url": "https://leimbucate.it/category/comunicazione/",
+        "link_id": 22
+    },
+    {
+        "url": "https://leimbucate.it/category/marketing/",
+        "link_id": 23
+    },
+    {
+        "url": "https://leimbucate.it/tag/brand-identity/",
+        "link_id": 24
+    },
+    {
+        "url": "https://leimbucate.it/tag/branding/",
+        "link_id": 25
+    },
+    {
+        "url": "https://leimbucate.it/tag/buyer-persona/",
+        "link_id": 26
+    },
+    {
+        "url": "https://leimbucate.it/tag/clienti-ideali/",
+        "link_id": 27
+    },
+    {
+        "url": "https://leimbucate.it/tag/comunicazione/",
+        "link_id": 28
+    },
+    {
+        "url": "https://leimbucate.it/tag/design/",
+        "link_id": 29
+    },
+    {
+        "url": "https://leimbucate.it/tag/digital-marketing/",
+        "link_id": 30
+    },
+    {
+        "url": "https://leimbucate.it/tag/font/",
+        "link_id": 31
+    },
+    {
+        "url": "https://leimbucate.it/tag/grafica/",
+        "link_id": 32
+    },
+    {
+        "url": "https://leimbucate.it/tag/graphic-design/",
+        "link_id": 33
+    },
+    {
+        "url": "https://leimbucate.it/tag/instagram/",
+        "link_id": 34
+    },
+    {
+        "url": "https://leimbucate.it/tag/logo/",
+        "link_id": 35
+    },
+    {
+        "url": "https://leimbucate.it/tag/marketing/",
+        "link_id": 36
+    },
+    {
+        "url": "https://leimbucate.it/tag/microbusiness/",
+        "link_id": 37
+    },
+    {
+        "url": "https://leimbucate.it/tag/nuovo-business/",
+        "link_id": 38
+    },
+    {
+        "url": "https://leimbucate.it/tag/palette-colori/",
+        "link_id": 39
+    },
+    {
+        "url": "https://leimbucate.it/tag/pinterest/",
+        "link_id": 40
+    },
+    {
+        "url": "https://leimbucate.it/tag/progettazione-logo/",
+        "link_id": 41
+    },
+    {
+        "url": "https://leimbucate.it/tag/rebranding/",
+        "link_id": 42
+    },
+    {
+        "url": "https://leimbucate.it/tag/sito-web/",
+        "link_id": 43
+    },
+    {
+        "url": "https://leimbucate.it/tag/social/",
+        "link_id": 44
+    },
+    {
+        "url": "https://leimbucate.it/tag/social-media/",
+        "link_id": 45
+    },
+    {
+        "url": "https://leimbucate.it/tag/strategia/",
+        "link_id": 46
+    },
+    {
+        "url": "https://leimbucate.it/tag/target/",
+        "link_id": 47
+    },
+    {
+        "url": "https://leimbucate.it/tag/valori/",
+        "link_id": 48
+    },
+    {
+        "url": "https://leimbucate.it/tag/visual-identity/",
+        "link_id": 49
+    },
+    {
+        "url": "https://leimbucate.it/tag/wedding-planner/",
+        "link_id": 50
+    },
+    {
+        "url": "https://leimbucate.it/author/leimbucate/",
+        "link_id": 51
+    },
+    {
+        "url": "https://leimbucate.it/2021/11/27/il-rebranding-di-joy-wedding/",
+        "link_id": 52
+    },
+    {
+        "url": "https://leimbucate.it/2022/01/11/i-clienti-ideali-di-wedinsalento/",
+        "link_id": 53
+    },
+    {
+        "url": "https://leimbucate.it/2022/02/23/personal-brand-consulente-finanziario/",
+        "link_id": 54
+    },
+    {
+        "url": "https://leimbucate.it/2022/01/11/il-percorso-di-branding-per-engo/",
+        "link_id": 55
+    },
+    {
+        "url": "https://leimbucate.it/2022/12/09/trasformare-passione-lavoro_luciano/",
+        "link_id": 56
+    },
+    {
+        "url": "https://leimbucate.it/",
+        "link_id": 57
+    },
+    {
+        "url": "https://leimbucate.it/servizi/i-nostri-servizi-singoli/",
+        "link_id": 58
+    },
+    {
+        "url": "https://leimbucate.it/servizi/",
+        "link_id": 59
+    },
+    {
+        "url": "https://leimbucate.it/servizi/la-tua-idea-ha-futuro/",
+        "link_id": 60
+    },
+    {
+        "url": "https://leimbucate.it/servizi/un-brand-unico/",
+        "link_id": 61
+    },
+    {
+        "url": "https://leimbucate.it/servizi/strategia-di-lancio-wow/",
+        "link_id": 62
+    },
+    {
+        "url": "https://leimbucate.it/servizi/social-che-spaccano/",
+        "link_id": 63
+    },
+    {
+        "url": "https://leimbucate.it/casi-studio-portfolio/",
+        "link_id": 64
+    },
+    {
+        "url": "https://leimbucate.it/chi-siamo/",
+        "link_id": 65
+    },
+    {
+        "url": "https://leimbucate.it/melissa/",
+        "link_id": 66
+    },
+    {
+        "url": "https://leimbucate.it/contatti/",
+        "link_id": 67
+    },
+    {
+        "url": "https://leimbucate.it/elisa-monasterolo/",
+        "link_id": 68
+    },
+    {
+        "url": "https://leimbucate.it/rebecca/",
+        "link_id": 69
+    },
+    {
+        "url": "https://leimbucate.it/hello/",
+        "link_id": 70
+    },
+    {
+        "url": "https://leimbucate.it/coming-soon/",
+        "link_id": 71
+    },
+    {
+        "url": "https://leimbucate.it/category/branding/",
+        "link_id": 72
+    },
+    {
+        "url": "https://leimbucate.it/category/comunicazione/",
+        "link_id": 73
+    },
+    {
+        "url": "https://leimbucate.it/category/marketing/",
+        "link_id": 74
+    },
+    {
+        "url": "https://leimbucate.it/tag/brand-identity/",
+        "link_id": 75
+    },
+    {
+        "url": "https://leimbucate.it/tag/branding/",
+        "link_id": 76
+    },
+    {
+        "url": "https://leimbucate.it/tag/buyer-persona/",
+        "link_id": 77
+    },
+    {
+        "url": "https://leimbucate.it/tag/clienti-ideali/",
+        "link_id": 78
+    },
+    {
+        "url": "https://leimbucate.it/tag/comunicazione/",
+        "link_id": 79
+    },
+    {
+        "url": "https://leimbucate.it/tag/design/",
+        "link_id": 80
+    },
+    {
+        "url": "https://leimbucate.it/tag/digital-marketing/",
+        "link_id": 81
+    },
+    {
+        "url": "https://leimbucate.it/tag/font/",
+        "link_id": 82
+    },
+    {
+        "url": "https://leimbucate.it/tag/grafica/",
+        "link_id": 83
+    },
+    {
+        "url": "https://leimbucate.it/tag/graphic-design/",
+        "link_id": 84
+    },
+    {
+        "url": "https://leimbucate.it/tag/instagram/",
+        "link_id": 85
+    },
+    {
+        "url": "https://leimbucate.it/tag/logo/",
+        "link_id": 86
+    },
+    {
+        "url": "https://leimbucate.it/tag/marketing/",
+        "link_id": 87
+    },
+    {
+        "url": "https://leimbucate.it/tag/microbusiness/",
+        "link_id": 88
+    },
+    {
+        "url": "https://leimbucate.it/tag/nuovo-business/",
+        "link_id": 89
+    },
+    {
+        "url": "https://leimbucate.it/tag/palette-colori/",
+        "link_id": 90
+    },
+    {
+        "url": "https://leimbucate.it/tag/pinterest/",
+        "link_id": 91
+    },
+    {
+        "url": "https://leimbucate.it/tag/progettazione-logo/",
+        "link_id": 92
+    },
+    {
+        "url": "https://leimbucate.it/tag/rebranding/",
+        "link_id": 93
+    },
+    {
+        "url": "https://leimbucate.it/tag/sito-web/",
+        "link_id": 94
+    },
+    {
+        "url": "https://leimbucate.it/tag/social/",
+        "link_id": 95
+    },
+    {
+        "url": "https://leimbucate.it/tag/social-media/",
+        "link_id": 96
+    },
+    {
+        "url": "https://leimbucate.it/tag/strategia/",
+        "link_id": 97
+    },
+    {
+        "url": "https://leimbucate.it/tag/target/",
+        "link_id": 98
+    },
+    {
+        "url": "https://leimbucate.it/tag/valori/",
+        "link_id": 99
+    },
+    {
+        "url": "https://leimbucate.it/tag/visual-identity/",
+        "link_id": 100
+    },
+    {
+        "url": "https://leimbucate.it/tag/wedding-planner/",
+        "link_id": 101
+    },
+    {
+        "url": "https://leimbucate.it/author/leimbucate/",
+        "link_id": 102
+    },
+    {
+        "url": "https://leimbucate.it/home/",
+        "link_id": 103
+    },
+    {
+        "url": "https://leimbucate.it/contatti",
+        "link_id": 104
+    },
+    {
+        "url": "https://leimbucate.it/casi-studio/",
+        "link_id": 105
+    },
+    {
+        "url": "https://leimbucate.it/elisa/",
+        "link_id": 106
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2023/01/LeImbucate_Brochure_Servizi2023.pdf",
+        "link_id": 107
+    },
+    {
+        "url": "https://leimbucate.it/servizi",
+        "link_id": 108
+    },
+    {
+        "url": "https://leimbucate.it/servizi/un-brand-unico",
+        "link_id": 109
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/01/la-nostra-storia-2.jpg",
+        "link_id": 110
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/01/la-nostra-storia-1-scaled.jpg",
+        "link_id": 111
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/01/la-nostra-storia-3.jpg",
+        "link_id": 112
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/01/Curriculum-Melissa-Piazzi.pdf",
+        "link_id": 113
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/05/CV_ELISA-MONASTEROLO_2022.pdf",
+        "link_id": 114
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/07/Rebecca-Del-Mastro-CV-2022_con-link.pdf",
+        "link_id": 115
+    },
+    {
+        "url": "https://leimbucate.it/wp-content/uploads/2022/02/Rebecca-Del-Mastro-Portfolio-2021-2022-low.pdf",
+        "link_id": 116
+    }
+]

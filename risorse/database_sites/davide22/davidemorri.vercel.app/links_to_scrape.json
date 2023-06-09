@@ -1,0 +1,62 @@
+[
+    {
+        "url_to_scrape": 15,
+        "total_link": 14
+    },
+    {
+        "url": "https://davidemorri.vercel.app/",
+        "link_id": 1
+    },
+    {
+        "url": "https://davidemorri.vercel.app/about/",
+        "link_id": 2
+    },
+    {
+        "url": "https://davidemorri.vercel.app/work/seogull",
+        "link_id": 3
+    },
+    {
+        "url": "https://davidemorri.vercel.app/work/",
+        "link_id": 4
+    },
+    {
+        "url": "https://davidemorri.vercel.app/work/make22",
+        "link_id": 5
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/risorse/CV Davide Morri 2023.pdf",
+        "link_id": 6
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/make22_davide-morri.png",
+        "link_id": 7
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/certificato_learnn_SEO.png",
+        "link_id": 8
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/certificato_learnn_lightroom.png",
+        "link_id": 9
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/risorse/Tesi SEOgull.pdf",
+        "link_id": 10
+    },
+    {
+        "url": "https://davidemorri.vercel.app/work/social-galaxy",
+        "link_id": 11
+    },
+    {
+        "url": "https://davidemorri.vercel.app/work/positional",
+        "link_id": 12
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/risorse/Social media galaxy.pdf",
+        "link_id": 13
+    },
+    {
+        "url": "https://davidemorri.vercel.app/assets/risorse/Positional.pdf",
+        "link_id": 14
+    }
+]
