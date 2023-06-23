@@ -11,3 +11,6 @@ Check my profile sometimes to stay updated!
 	:height: 150px
 	:alt: SEOgull logo
 	:align: center
+
+###################
+You can read more about it 'here <https://davidemorri.vercel.app/work/seogull>'_
