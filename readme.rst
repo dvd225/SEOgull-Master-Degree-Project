@@ -13,4 +13,5 @@ Check my profile sometimes to stay updated!
 	:align: center
 
 ###################
-You can read more about it 'here <https://davidemorri.vercel.app/work/seogull>'_
+
+You can read more about it here (https://davidemorri.vercel.app/work/seogull)
