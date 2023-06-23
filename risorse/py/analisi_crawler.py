@@ -362,7 +362,7 @@ def crawl(max_urls, user, site_name):
 
             # 7) RACCOLGO I DATI DEI CORE WEB VITALS
 
-            key = "AIzaSyDZXaIss_CViFT4DYe1z9-D_xyyxUDM5yU"  # SECRET KEY
+            key = "yoursecretgooglekey"  # SECRET KEY
             
 
             strategy = "mobile"
